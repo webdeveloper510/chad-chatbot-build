@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/loanapp/static/css/main.b44e31ee.css",
-    "main.js": "/loanapp/static/js/main.2a938528.js",
+    "main.js": "/loanapp/static/js/main.ddce856b.js",
     "static/js/453.7274fd1a.chunk.js": "/loanapp/static/js/453.7274fd1a.chunk.js",
     "static/media/bootstrap-icons.woff?": "/loanapp/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/loanapp/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/loanapp/index.html",
     "main.b44e31ee.css.map": "/loanapp/static/css/main.b44e31ee.css.map",
-    "main.2a938528.js.map": "/loanapp/static/js/main.2a938528.js.map",
+    "main.ddce856b.js.map": "/loanapp/static/js/main.ddce856b.js.map",
     "453.7274fd1a.chunk.js.map": "/loanapp/static/js/453.7274fd1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b44e31ee.css",
-    "static/js/main.2a938528.js"
+    "static/js/main.ddce856b.js"
   ]
 }
