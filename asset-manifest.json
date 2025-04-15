@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/loanapp/login/static/css/main.e70d3b5b.css",
-    "main.js": "/loanapp/login/static/js/main.5783f2f7.js",
-    "static/js/453.7274fd1a.chunk.js": "/loanapp/login/static/js/453.7274fd1a.chunk.js",
-    "static/media/Loan Assistant (1).png": "/loanapp/login/static/media/Loan Assistant (1).a5cd7b1a1fabc4a3614d.png",
-    "index.html": "/loanapp/login/index.html",
-    "main.e70d3b5b.css.map": "/loanapp/login/static/css/main.e70d3b5b.css.map",
-    "main.5783f2f7.js.map": "/loanapp/login/static/js/main.5783f2f7.js.map",
-    "453.7274fd1a.chunk.js.map": "/loanapp/login/static/js/453.7274fd1a.chunk.js.map"
+    "main.css": "/loanapp/static/css/main.929917ee.css",
+    "main.js": "/loanapp/static/js/main.d32a9e45.js",
+    "static/js/453.7274fd1a.chunk.js": "/loanapp/static/js/453.7274fd1a.chunk.js",
+    "static/media/Loan Assistant (1).png": "/loanapp/static/media/Loan Assistant (1).a5cd7b1a1fabc4a3614d.png",
+    "index.html": "/loanapp/index.html",
+    "main.929917ee.css.map": "/loanapp/static/css/main.929917ee.css.map",
+    "main.d32a9e45.js.map": "/loanapp/static/js/main.d32a9e45.js.map",
+    "453.7274fd1a.chunk.js.map": "/loanapp/static/js/453.7274fd1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e70d3b5b.css",
-    "static/js/main.5783f2f7.js"
+    "static/css/main.929917ee.css",
+    "static/js/main.d32a9e45.js"
   ]
 }
